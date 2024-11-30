@@ -1,0 +1,64 @@
+
+.parent{
+    width: 1000px;
+    height: 460px;
+    margin-left: 250px;
+    margin-top: 130px;
+    border: 1px solid white;
+    border-radius: 10px;
+overflow: hidden;
+}
+.child{
+   height: 100%;
+ width: 33.3%;
+ float: left;
+ 
+}
+.child1 {
+    background-color: rgb(227, 102, 12);
+}
+.child2{
+    background-color: rgb(19, 75, 78);
+}
+.child3{
+    background-color: rgb(10, 54, 43);
+}
+.child1 button{
+   color: rgb(227, 102, 12);
+}
+.child2 button{
+    color: rgb(19, 75, 78);
+ }
+ .child3 button{
+    color: rgb(10, 54, 43);
+ }
+.claer-fix{
+    clear: both;
+}
+h2{
+    text-transform: uppercase;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 45px;
+    padding-top: 10px;
+    color: aliceblue;
+}
+p{
+    line-height: 20px;
+   padding-left: 45px;
+  padding-top: 5px;
+  color: rgb(222, 228, 233);
+}
+button{
+  margin-top: 70px;
+  margin-left: 45px;
+    width: 130px;
+    height: 40px;
+    border: 1px solid white;
+    border-radius: 20px;
+   font-weight: bold;
+}
+
+img{
+    padding-top: 45px;
+    padding-left: 45px;
+}
